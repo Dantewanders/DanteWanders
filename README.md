@@ -1,5 +1,5 @@
-<h1 align="center">👋
-   Dante Taylor  👋</h1>
+<h1 align="center">
+   Dante Taylor  </h1>
 <h3 align="center">A passionate New Fullstack developer from Charleston SC</h3>
 <h3 alig="center">I am new to coding and I have just graduated from JRS Coding Bootcamp. I am excited for this new career and all it teaches me daily. Check out my projects and offer any insight you deem helpful</h3>
 
