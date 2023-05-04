@@ -3,7 +3,7 @@
 <h3 align="center">A passionate new Fullstack developer from Charleston SC</h3>
 <h3 alig="center">I am new to coding and I have just graduated from JRS Coding Bootcamp. I am excited for this new career and all it teaches me daily. Check out my projects and offer any insight you deem helpful</h3>
 
-- 🔭 I’m currently working on [Namaste Wellness](https://github.com/Dantewanders/NamasteWellness)
+🔭 I’m currently working on a few fullstack projects like  [Namaste Wellness](https://github.com/Dantewanders/NamasteWellness)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
