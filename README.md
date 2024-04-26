@@ -1,7 +1,7 @@
 <h1 align="center">
    Dante Taylor  </h1>
 <h3 align="center">A passionate new Fullstack developer from Charleston SC</h3>
-<h3 alig="center">I am excited to explore this new skill set and all it teaches me daily. As I delve into languages and forms of programming I am enthralled by the consistent learning and problem solving.</h3>
+<h3 alig="center">I am excited to explore this new skill set and all it teaches me daily. As I delve into languages and forms of programming, I am enthralled by the consistent learning and problem solving.</h3>
 
 I’m currently working on a few fullstack projects like  [Namaste Wellness](https://github.com/Dantewanders/NamasteWellness)
 
