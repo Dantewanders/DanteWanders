@@ -31,8 +31,7 @@
 <hr />
 
 <h3>🤝 Connect With Me</h3>
-<p align="center">
- 504-345-8014
+<p 504-345-8014
 </p>
 <p>
   <a href="https://www.linkedin.com/in/dante-p-taylor" target="_blank" rel="noreferrer">
