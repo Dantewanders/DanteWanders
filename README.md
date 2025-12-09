@@ -31,6 +31,9 @@
 <hr />
 
 <h3>🤝 Connect With Me</h3>
+<p align="center">
+ 504-345-8014
+</p>
 <p>
   <a href="https://www.linkedin.com/in/dante-p-taylor" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32" />
